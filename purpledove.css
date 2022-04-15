@@ -1,0 +1,171 @@
+body{
+    
+    height: 1505px;
+    width: 1415px;
+    left: -349px;
+    top: -64px;
+    border-radius: 30px;
+
+    background: linear-gradient( #88388C 100%, #E605F1 100%);
+    color: white;
+
+
+    }
+
+#top{
+    float: left;
+    padding-left: 96px;
+    padding-top: 43px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 38px;
+    line-height: 33px;
+    letter-spacing: 0.03em;
+    text-transform: capitalize;
+
+}
+
+.nav-list{
+    float: right;
+    left: 13.43%;
+    right: 40%;
+    top: 0%;
+    bottom: 0%;
+    margin: 0;
+    padding: 1rem 0;
+    border-radius: var;
+    display: flex;
+    padding-left: 100px;
+    list-style: none;
+    padding-right: 110px;
+    
+}
+
+.nav-list a{
+    text-decoration: none;
+    color:#FFFFFF;
+}
+
+.navitem1{
+   padding-top: 62.64px;
+   padding-left: 35px;
+   text-decoration: none;
+}
+
+.navitem2{
+    padding-top: 62.64px;
+    padding-left: 35px;
+    text-decoration: none;
+}
+
+.navitem3{
+    padding-top: 62.64px;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-decoration: none;
+}
+
+
+.button-4{
+    background-color: #FFFFFF;
+    padding-bottom: 35px;
+    padding-top: 40px;
+    top: 69px;
+    left: 82.5px;
+    width: 180px;
+    border-radius: 12px;
+
+}
+
+.button-6{
+    background-color: #FFFFFF;
+    padding-bottom: 35px;
+    padding-top: 40px;
+    top: 69px;
+    left: 82.5px;
+    width: 250px;
+    border-radius: 4px;
+    border-color: #E605F1;
+}
+
+.button-7{
+    background-color: transparent;
+    padding-bottom: 35px;
+    padding-top: 40px;
+    top: 69px;
+    left: 82.5px;
+    width: 300px;
+    border-radius: 4px;
+    border-color: #FFFFFF;
+}
+
+.header1{
+position: absolute;
+width: 663px;
+height: 50px;
+left: 380px;
+top: 171px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 80px;
+line-height: 101px;
+letter-spacing: 0.03em;
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
+
+.p1{
+    position: absolute;
+    width: 772px;
+    height: 75px;
+    left: 287px;
+    top: 335px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+
+}
+
+.button-1{
+    position: absolute;
+    padding-top: 460px;
+    padding-left: 400px;
+}
+
+
+.nav-bar{
+    position: absolute;
+    top: 750px;
+    left: 550px;
+    width: 200px;
+    height: 100px;
+
+    box-sizing: border-box;
+}
+
+.sidebar{
+    position: absolute;
+    top: 550px;
+    float: left;
+}
+
+.rectangle{
+    height: 100px;
+    width:200px;
+    background-color: #FFFFFF;    
+    border: 1px solid green; 
+    float: right;
+    padding-left: 1000px;
+
+}
